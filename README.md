@@ -49,3 +49,7 @@ Output:
 | `BFS.h` | Public API — grid construction/destruction, `solve` |
 | `BFS.c` | Implementation — grid internals, BFS, greedy solver |
 | `main.c` | Test cases |
+
+## See also
+[GridTraversal](https://github.com/michaljj/GridTraversal) — an earlier beam search
+solver for the non-revisiting variant of the same grid traversal problem.
